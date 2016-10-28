@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\src\main\jniLibs"><file name="armeabi/libuhf-tools.so" path="C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\src\main\jniLibs\armeabi\libuhf-tools.so"/></source></dataSet><dataSet config="debug"><source path="C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\src\debug\jniLibs"/></dataSet></merger>

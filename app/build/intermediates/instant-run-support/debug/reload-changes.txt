@@ -1,0 +1,10 @@
+CHANGED,C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\magicuhf\MainActivity$6$override.class
+CHANGED,C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\magicuhf\MainActivity$5$override.class
+CHANGED,C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\magicuhf\MainActivity$StartScanningAction$override.class
+CHANGED,C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\magicuhf\MainActivity$4$override.class
+CHANGED,C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\magicuhf\MainActivity$MainHandler$override.class
+CHANGED,C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\magicuhf\MainActivity$3$override.class
+CHANGED,C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\magicuhf\MainActivity$3$2$override.class
+CHANGED,C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\magicuhf\MainActivity$3$3$override.class
+CHANGED,C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\magicuhf\MainActivity$override.class

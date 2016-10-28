@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MLCP</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="et1_hint">RFID</string>
+    <string name="et2_hint">Please enter Vehicle Number</string>
+    <string name="et3_hint">Please enter Employee Name</string>
+    <string name="et4_hint">Please enter Employee Number</string>
+    <string name="alert1_text">Please scan the rfid.</string>
+    <string name="alert2_text">Please enter vehicle number</string>
+    <string name="alert3_text">Registration successful.</string>
+    <string name="alert4_text">Please enter RFID or vehicle number.</string>
+
+</resources>
