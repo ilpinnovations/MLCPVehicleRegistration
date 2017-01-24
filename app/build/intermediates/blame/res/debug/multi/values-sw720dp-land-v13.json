@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "outputFile": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

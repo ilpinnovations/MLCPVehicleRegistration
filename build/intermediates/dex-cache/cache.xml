@@ -1,3 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\libs\gson-2.4.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.4_b29f2d31fcfe0e2a639bc1afc61e90495cdb2d37\classes.dex" />
+    </item>
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_a275402adc0e602a20899d01d045fdaba79e6e20\classes.dex" />
+    </item>
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_5197b4d5f5f29f77ffa700040030b025c74463be\classes.dex" />
+    </item>
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_3402a826a7a736debb574b2ba3d11ebc55ab00a0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_4f1f7214f2348376eae02107da61ef03e5fd6554\classes.dex" />
+    </item>
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="56ae71da0dff02a20cb1bb2d266339aae6a450b1">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_111e2535d81a2c7460a426d5c6e1e836026f6d54\classes.dex" />
+    </item>
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_3701eefaf538105c2f67642a5e9dd7262cffb463\classes.dex" />
+    </item>
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_9c13246cd1b77ec57ae61bc620dc8bc3264ddd66\classes.dex" />
+    </item>
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="829b9866ecdd87ee6bbc2889046474a5e7b79b31">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a9b385f8f0f4d8dec72ffded09b86343290c74c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_fb6cb6ab4904b0ff39aa9f7b17a8e7a9020f439d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_ae9d052c398da77c51db38c6d463a158ee9c824d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_e9e4d0d6b95a06e265446e1653b0b17fb1009eec\classes.dex" />
+    </item>
+
+</items>

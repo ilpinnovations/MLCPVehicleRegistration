@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\src\\main\\res\\values-v14\\colors.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\src\\main\\res\\values-v14\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 143
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\src\\main\\res\\values-v14\\colors.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\src\\main\\res\\values-v14\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 194
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\src\\main\\res\\values-v14\\colors.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\src\\main\\res\\values-v14\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -69,7 +69,7 @@
                     "endOffset": 345
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -90,7 +90,7 @@
                     "endOffset": 621
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -110,7 +110,7 @@
                     "endOffset": 692
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -129,7 +129,7 @@
                     "endOffset": 775
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -149,7 +149,7 @@
                     "endOffset": 1185
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -170,7 +170,7 @@
                     "endOffset": 1607
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -190,7 +190,7 @@
                     "endOffset": 1727
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -209,7 +209,7 @@
                     "endOffset": 1790
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -229,7 +229,7 @@
                     "endOffset": 1944
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -249,7 +249,7 @@
                     "endOffset": 2007
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -268,7 +268,7 @@
                     "endOffset": 2139
                 },
                 "from": {
-                    "file": "C:\\Abhishek\\android_projects\\LS398M-MagicUHF-English note\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Shubham\\abhishek_kt\\MLCP Vehicle Registration\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,

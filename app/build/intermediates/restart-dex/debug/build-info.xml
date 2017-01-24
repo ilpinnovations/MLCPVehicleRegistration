@@ -4,29 +4,29 @@
     api-level="23"
     density="hdpi"
     format="7"
-    timestamp="149053945438690"
-    token="7424910609243953774" >
+    timestamp="265487486276370"
+    token="3863080226115523325" >
 
     <task
         name="javac"
-        duration="1203" />
+        duration="990" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="120" />
+        duration="539" />
     <task
         name="verifier"
-        duration="92" />
+        duration="202" />
 
     <artifact
-        location="C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\outputs\apk\app-debug.apk"
+        location="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="149053945438690" >
+    <build timestamp="265487486276370" >
         <artifact
-            location="C:\Abhishek\android_projects\LS398M-MagicUHF-English note\app\build\outputs\apk\app-debug.apk"
+            location="C:\Shubham\abhishek_kt\MLCP Vehicle Registration\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 
